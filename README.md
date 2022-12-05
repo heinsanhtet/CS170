@@ -28,7 +28,7 @@ To run the Metis file:
 5. If you have created the inputs, you can run our **solve()** function which impolements the METIS method in the Phase 2. 
 6. To visualize the partitions (teams) that are created, run the section below the **solve()**
 7. To check the cost of each graph, you can start the run/run_all() function. 
-8. 8. Make sure to clear the outputs if you want to run other algorithms.
+8. Make sure to clear the outputs if you want to run other algorithms.
 
 ________________________________________________________________________________________________________________
 **Scikit-learn using Spectral Clustering
@@ -41,5 +41,5 @@ To run the Spectral file:
 5. If you have created the inputs, you can run our **solve()** function which impolements the Spectral Clustering method in the Phase 2. 
 6. To visualize the partitions (teams) that are created, run the section below the **solve()**
 7. To check the cost of each graph, you can start the run/run_all() function. 
-8. 8. Make sure to clear the outputs if you want to run other algorithms.
+8. Make sure to clear the outputs if you want to run other algorithms.
 
