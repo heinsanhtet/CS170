@@ -5,7 +5,7 @@ This repository contains utility functions which might be helpful for solving th
 `python >= 3.6` is needed for `starter.py`, which contains a handful of utility functions, to run properly; it was, nevertheless, developed in python 3.9.  
 Jupyter Notebook is required should you prefer using `main.ipynb`.
 ________________________________________________________________________________________________________________
-**Greedy**
+**GREEDY**
 
 To run the Greedy file:
 1. Open the GREEDY.ipynb
@@ -31,8 +31,9 @@ To run the Metis file:
 8. 8. Make sure to clear the outputs if you want to run other algorithms.
 
 ________________________________________________________________________________________________________________
-**Scikit-learn using Spectral Clustering**
-To run the SPECTRAL file:
+**Scikit-learn using Spectral Clustering
+
+To run the Spectral file:
 1. Open the SPECTRAL.ipynb
 2. First, install the packages that are needed to run the program (SKLEARN & SCIKIT-NETWORK)
 3. Then, import any libraries that are also needed to run the program. (SKLEARN, Spectral Clustering, Normalized Mutual Info Score)
